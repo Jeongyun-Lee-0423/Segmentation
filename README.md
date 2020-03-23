@@ -21,7 +21,7 @@ Key Point
 
  (1) 첨부 된 make_image.py 를 이용하여 Train/Test Data를 생성 
  
- (2) Test Data : Defect 1~2개 , Contrast 3~4 Gray 차이 (위 Example Image )
+ (2) Test Data : Defect 1~2개 , Contrast 3 - 4 Gray 차이 (위 Example Image )
  
  (3) Train Data : make_image.py 를 이용하여 Train Data를 생성, 어떻게 생성해야 Train 되고 Test Set이 검출이 되는지 Study
  
