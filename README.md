@@ -2,7 +2,7 @@
 
 ## Defect Detection에 필요한 Segmentation 학습 방법론, Augmentation 익히기 
 
-   ![원본](/test/1.png)   ![/test/정답/1.PNG](/test/정답/1.png)   ![1_predict.PNG](1_predict.png)
+   ![/test/1.png](/test/1.png)      ![/test/정답/1.PNG](/test/정답/1.png)      ![1_predict.PNG](1_predict.png)
 
 ---
 
