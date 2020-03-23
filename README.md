@@ -2,11 +2,11 @@
 
 ## Defect Detection에 필요한 Segmentation 학습 방법론, Augmentation 익히기
 
-Example:
+Example: 원본 , 정답 , 예측
 
    ![/test/1.png](/test/1.png)                 ![/test/정답/1.PNG](/test/정답/1.png)               ![1_predict.PNG](1_predict.png)
    
-   원본                                    정답                                     예측      
+      
 ---
 
 ## Overview
