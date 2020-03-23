@@ -6,7 +6,7 @@ Example:
 
    ![/test/1.png](/test/1.png)                 ![/test/정답/1.PNG](/test/정답/1.png)               ![1_predict.PNG](1_predict.png)
    
-    원본                                         정답                                                예측      
+   원본                                    정답                                     예측      
 ---
 
 ## Overview
