@@ -1,6 +1,6 @@
 # Segmentation
 
-## Defect Detection에 필요한 Segmentation 학습 방법론, Augmentation 익히기
+## ※ Defect Detection에 필요한 Segmentation 학습 방법론, Augmentation 익히기
 
 Example: 원본 , 정답 , 예측
 
