@@ -57,6 +57,7 @@ for image_num in range(0,100):
 ### 기초 코드
 
  (1) 첨부 된 Keras train.py, model.py 를 이용
+ 
  (2) 'binary_crossentropy' , [dice_coef_loss] 둘 중 어떤 Loss function을 어떻게 이용할지 평가
  
  
@@ -66,6 +67,8 @@ for image_num in range(0,100):
      
  (2) 일단 학습 및 검출이 되도록 해보기 
 
- (3) Sigle/ Batch Inference 속도 비교
+ (3) Single/ Batch Inference 속도 비교
+ 
+ (4) 추가로 Multi Class Segmentation Study !!
  
  --- 
